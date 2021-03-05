@@ -1,4 +1,4 @@
-### Take a look around! 👋
+### Thanks for dropping by! 😎
 
 <!--
 **barrie-wu/barrie-wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
